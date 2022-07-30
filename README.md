@@ -6,7 +6,7 @@
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/poppygloria2021" target="blank"><img src="https://img.shields.io/twitter/follow/poppygloria2021?logo=twitter&style=for-the-badge" alt="poppygloria2021" /></a>&nbsp
-<a href="https://pbs.twimg.com/profile_images/1492674131988414464/K7BDxXCa_400x400.jpg"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQE5GUiUOHxUZA/profile-displayphoto-shrink_800_800/0/1658802745943?e=1664409600&v=beta&t=DwQjbOXF3g7MphSBb521T6l3XCX4qChAV2SePzF0ZOQ"/></a>&nbsp
+<a href="https://pbs.twimg.com/profile_images/1492674131988414464/K7BDxXCa_400x400.jpg"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
    <a href="mailto:pantamilan2021@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pantamilan2021@gmail.com" />
   </a>
