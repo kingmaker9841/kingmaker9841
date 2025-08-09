@@ -4,7 +4,7 @@ Senior Frontend Developer with over 5 years of experience building scalable web 
 
 - 📍 Based in Kathmandu, Nepal
 - 📧 Email: [pantamilan2021@gmail.com](mailto:pantamilan2021@gmail.com)
-- 🔗 LinkedIn: [Milan Panta](https://www.linkedin.com/in/milan-panta-111559377/)
+- 🔗 LinkedIn: [Milan Panta](https://www.linkedin.com/in/milan-p-63178b379/)
 - 🌐 GitHub: [kingmaker9841](https://github.com/kingmaker9841/)
 
 ## Expertise
