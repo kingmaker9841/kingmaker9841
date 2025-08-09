@@ -20,14 +20,23 @@ Senior Frontend Developer with over 5 years of experience building scalable web 
 - **smart-cache-gc** ([npm](https://www.npmjs.com/package/smart-cache-gc), v1.1.2, released July 2025)  
   Authored and maintain an npm package for efficient garbage collection in caching systems, optimizing memory management for JavaScript applications. Designed to enhance performance in high-traffic web applications by intelligently managing cache lifecycles. Actively maintained with comprehensive documentation and community support.
 
-- **Fusemachines Pvt. Ltd (Senior Software Engineer, 2024–2025)**  
+- **Fusemachines Pvt. Ltd (Senior Software Engineer, Apr 2024– Apr 2025)**  
   Led migration of legacy Nuxt, Yii, and Angular codebases to Next.js, improving performance and maintainability. Spearheaded feature development for AI-driven products and mentored a team of frontend engineers.
 
-- **Krispcall (Senior Frontend Engineer, 2023–2024)**  
+- **Bookmundi Aps (Senior Frontend Engineer, Dec 2023 - Apr 2024)**  
+  Migrated an 8+ year legacy codebase (Angular, PHP, React v16, Nuxt) to a Next.js v14 architecture, eliminating technical debt and consolidating multiple systems into a single scalable platform
+
+- **Krispcall (Mid-Senior Frontend Engineer, Apr 2023– Oct 2023)**  
   Oversaw Pipedrive and HubSpot CRM integrations, leveraging React, TypeScript, and GraphQL to deliver seamless functionality. Implemented BDD practices to enhance team collaboration and development efficiency.
 
-- **Neptune Mutual (Frontend Engineer, 2021–2023)**  
-  Built a cryptocurrency insurance platform, increasing user adoption by 30% through intuitive UI/UX and blockchain SDK integration.
+- **Infinity Digital Agency (Frontend Engineer, July 2021 - Apr 2023)**  
+  Developed SEO-optimized static marketing pages using Next.js static site generation (SSG), improvingorganic search rankings
+
+- **Identv Solutions (ReactJS Engineer, June 2020– June 2021)**  
+  Built a video tagging system in React and TypeScript, reducing manual processing time by 50% and boosting operational efficiency by 60%.
+
+- **General Technology (Fullstack Engineer, Dec 2019– May 2020)**  
+  Built a financial risk assessment platform for banks, calculating credit and operational risk scores using React, Node.js, and MySQL.
 
 Explore more projects on my [GitHub](https://github.com/kingmaker9841/).
 
