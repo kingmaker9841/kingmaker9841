@@ -1,10 +1,10 @@
 # Milan Panta
 
-Senior Frontend Developer with over 5 years of experience building scalable web applications for diverse industries, including fintech, insurtech, and AI-driven platforms. Proficient in modern JavaScript frameworks and tools, with a focus on delivering high-performance, maintainable code. Experienced in leading development teams, architecting solutions, and mentoring engineers to drive project success.
+Senior Frontend Developer with over 6 years of experience building scalable web applications for diverse industries, including fintech, insurtech, and AI-driven platforms. Proficient in modern JavaScript frameworks and tools, with a focus on delivering high-performance, maintainable code. Experienced in leading development teams, architecting solutions, and mentoring engineers to drive project success.
 
 - 📍 Based in Kathmandu, Nepal
 - 📧 Email: [pantamilan2021@gmail.com](mailto:pantamilan2021@gmail.com)
-- 🔗 LinkedIn: [Milan Panta](https://www.linkedin.com/in/milan-p-63178b379/)
+- 🔗 LinkedIn: [Milan Panta](https://www.linkedin.com/in/milan-p-63178b379/)  **Not available currently because of verification issue**
 - 🌐 GitHub: [kingmaker9841](https://github.com/kingmaker9841/)
 
 ## Expertise
@@ -15,10 +15,48 @@ Senior Frontend Developer with over 5 years of experience building scalable web 
 - **Tools & Platforms**: Git, GitHub, GitLab, Bitbucket, Docker, Postman
 - **Methodologies**: Behavior-Driven Development (BDD), Agile, CI/CD
 
-## Key Contributions
+## Open-Source Contributions
 
-- **smart-cache-gc** ([npm](https://www.npmjs.com/package/smart-cache-gc), v1.1.2, released July 2025)  
-  Authored and maintain an npm package for efficient garbage collection in caching systems, optimizing memory management for JavaScript applications. Designed to enhance performance in high-traffic web applications by intelligently managing cache lifecycles. Actively maintained with comprehensive documentation and community support.
+[![npm package](https://nodei.co/npm/smart-cache-gc.png)](https://www.npmjs.com/package/smart-cache-gc)
+  
+**[smart-cache-gc](https://www.npmjs.com/package/smart-cache-gc)**  
+A garbage-collection-aware, WeakRef-powered cache for long-running apps.
+
+## 📚 My Medium Articles
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://medium.com/@pantamilan2021/the-essential-guide-to-frontend-technical-documentation-232ea187919a">
+        <img src="https://plus.unsplash.com/premium_photo-1661313626999-90d230cabf8d?q=80&w=250&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250"  />
+      </a>
+      <br />
+      <strong ><a href="https://medium.com/@pantamilan2021/the-essential-guide-to-frontend-technical-documentation-232ea187919a">Frontend Technical Documentation</a></strong>
+      <br />
+      <span >A practical guide for writing clear, maintainable technical docs for frontend projects.</span>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@pantamilan2021/pipedrive-and-its-integration-8d25ae782fbd">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=250&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250"/>
+      </a>
+      <br />
+      <strong><a href="https://medium.com/@pantamilan2021/pipedrive-and-its-integration-8d25ae782fbd">Pipedrive and It’s Integration</a></strong>
+      <br />
+      <span>An overview of Pipedrive CRM and how to integrate it with your business workflow.</span>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@pantamilan2021/microservices-architecture-the-key-to-building-scalable-and-resilient-applications-4f4eef9a7f6f">
+        <img src="https://plus.unsplash.com/premium_photo-1716259490200-e77e7fdccfe4?q=80&w=250&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="250" />
+      </a>
+      <br />
+      <strong><a href="https://medium.com/@pantamilan2021/microservices-architecture-the-key-to-building-scalable-and-resilient-applications-4f4eef9a7f6f">Microservices Architecture</a></strong>
+      <br />
+      <span>Why microservices matter for scalability and resilience in modern applications.</span>
+    </td>
+  </tr>
+</table>
+
+## Key Contributions
 
 - **Fusemachines Pvt. Ltd (Senior Software Engineer, Apr 2024– Apr 2025)**  
   Led migration of legacy Nuxt, Yii, and Angular codebases to Next.js, improving performance and maintainability. Spearheaded feature development for AI-driven products and mentored a team of frontend engineers.
@@ -39,11 +77,6 @@ Senior Frontend Developer with over 5 years of experience building scalable web 
   Built a financial risk assessment platform for banks, calculating credit and operational risk scores using React, Node.js, and MySQL.
 
 Explore more projects on my [GitHub](https://github.com/kingmaker9841/).
-
-## Open-Source Contributions
-
-- **[smart-cache-gc](https://www.npmjs.com/package/smart-cache-gc)**: A lightweight library for optimized cache management in JavaScript applications, focusing on performance and scalability.
-- Actively contribute to open-source projects in the JavaScript ecosystem, with a focus on React and Node.js-based tools.
 
 ## Current Focus
 
