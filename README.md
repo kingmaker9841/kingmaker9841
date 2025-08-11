@@ -58,22 +58,22 @@ A garbage-collection-aware, WeakRef-powered cache for long-running apps.
 
 ## Key Contributions
 
-- **Fusemachines Pvt. Ltd (Senior Software Engineer, Apr 2024– Apr 2025)**  
+- **Fusemachines Pvt. Ltd (Senior Software Engineer)**  
   Led migration of legacy Nuxt, Yii, and Angular codebases to Next.js, improving performance and maintainability. Spearheaded feature development for AI-driven products and mentored a team of frontend engineers.
 
-- **Bookmundi Aps (Senior Frontend Engineer, Dec 2023 - Apr 2024)**  
+- **Bookmundi Aps (Senior Frontend Engineer)**  
   Migrated an 8+ year legacy codebase (Angular, PHP, React v16, Nuxt) to a Next.js v14 architecture, eliminating technical debt and consolidating multiple systems into a single scalable platform
 
-- **Krispcall (Mid-Senior Frontend Engineer, Apr 2023– Oct 2023)**  
+- **Krispcall (Mid-Senior Frontend Engineer)**  
   Oversaw Pipedrive and HubSpot CRM integrations, leveraging React, TypeScript, and GraphQL to deliver seamless functionality. Implemented BDD practices to enhance team collaboration and development efficiency.
 
-- **Infinity Digital Agency (Frontend Engineer, July 2021 - Apr 2023)**  
+- **Infinity Digital Agency (Frontend Engineer)**  
   Developed SEO-optimized static marketing pages using Next.js static site generation (SSG), improvingorganic search rankings
 
-- **Identv Solutions (ReactJS Engineer, June 2020– June 2021)**  
+- **Identv Solutions (ReactJS Engineer)**  
   Built a video tagging system in React and TypeScript, reducing manual processing time by 50% and boosting operational efficiency by 60%.
 
-- **General Technology (Fullstack Engineer, Dec 2019– May 2020)**  
+- **General Technology (Fullstack Engineer)**  
   Built a financial risk assessment platform for banks, calculating credit and operational risk scores using React, Node.js, and MySQL.
 
 Explore more projects on my [GitHub](https://github.com/kingmaker9841/).
