@@ -78,6 +78,10 @@ A garbage-collection-aware, WeakRef-powered cache for long-running apps.
 
 Explore more projects on my [GitHub](https://github.com/kingmaker9841/).
 
+## Education 
+**Bachelor's in Computer Science and Information Technology (Bsc.CSIT)** 2014 -2018  
+_Amrit Science Campus(ASCOL), Trivuwan University_
+
 ## Current Focus
 
 - Developing scalable web applications with a focus on performance optimization and modern JavaScript frameworks.
