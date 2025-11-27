@@ -4,7 +4,6 @@ Senior Frontend Developer with over 6 years of experience building scalable web 
 
 - 📍 Based in Kathmandu, Nepal
 - 📧 Email: [pantamilan2021@gmail.com](mailto:pantamilan2021@gmail.com)
-- 🔗 LinkedIn: [Milan Panta](https://www.linkedin.com/in/milan-p-63178b379/)  **Not available currently because of verification issue**
 - 🌐 GitHub: [kingmaker9841](https://github.com/kingmaker9841/)
 
 ## Expertise
@@ -59,22 +58,20 @@ A garbage-collection-aware, WeakRef-powered cache for long-running apps.
 ## Key Contributions
 
 - **Fusemachines Pvt. Ltd (Senior Software Engineer)**  
-  Led migration of legacy Nuxt, Yii, and Angular codebases to Next.js, improving performance and maintainability. Spearheaded feature development for AI-driven products and mentored a team of frontend engineers.
+  Led development of AI-driven web applications using TypeScript and ReactJS, ensuring high scalability and performance. Spearheaded feature development for AI-driven products and mentored a team of frontend engineers.
+  Project: [AI Studio](https://fusemachines.com/ai-solutions/ai-studio-retail/)
 
 - **Bookmundi Aps (Senior Frontend Engineer)**  
   Migrated an 8+ year legacy codebase (Angular, PHP, React v16, Nuxt) to a Next.js v14 architecture, eliminating technical debt and consolidating multiple systems into a single scalable platform
-
-- **Krispcall (Mid-Senior Frontend Engineer)**  
-  Oversaw Pipedrive and HubSpot CRM integrations, leveraging React, TypeScript, and GraphQL to deliver seamless functionality. Implemented BDD practices to enhance team collaboration and development efficiency.
+  Project: [BookmundiAps](https://bookmundi.com/)
 
 - **Infinity Digital Agency (Frontend Engineer)**  
   Developed SEO-optimized static marketing pages using Next.js static site generation (SSG), improvingorganic search rankings
+  Project: [Rebranch](https://www.rebranch.com.au/)
 
 - **Identv Solutions (ReactJS Engineer)**  
-  Built a video tagging system in React and TypeScript, reducing manual processing time by 50% and boosting operational efficiency by 60%.
-
-- **General Technology (Fullstack Engineer)**  
-  Built a financial risk assessment platform for banks, calculating credit and operational risk scores using React, Node.js, and MySQL.
+  Built a Video Juicer, ACR Platform in HTML/CSS, React and TypeScript/Javascript, reducing manual processing time by 50% and boosting operational efficiency by 60%.
+  Project: [ACR Platform](https://www.identv.com/#:~:text=IDenTV%27s%20ACR%20Platform,overflowing%20with%20multimedia.) | Project: [Video Juicer](https://www.identv.com/#:~:text=Video%20Juicer,with%20Video%20Juicer!)
 
 Explore more projects on my [GitHub](https://github.com/kingmaker9841/).
 
